@@ -2,3 +2,15 @@ abbr {
   font-style: italic;
   color: chocolate;
 }
+
+span {
+  background-color: yellow;
+}
+
+strong {
+  color: rebeccapurple;
+}
+
+em {
+  color: rebeccapurple;
+}
