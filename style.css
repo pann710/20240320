@@ -37,3 +37,15 @@ em {
     url(big-star.png) center no-repeat,
     rebeccapurple;
 }
+
+.box {
+  background-color: #567895;
+}
+
+h2 {
+  background-color: black;
+  color: white;
+}
+span {
+  background-color: rgb(255 255 255 / 50%);
+}
